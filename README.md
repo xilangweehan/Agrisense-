@@ -1,10 +1,10 @@
-# AgriSense 🌿💧
+# AgriSense
 
 An open-source, ESP32-powered smart agriculture IoT system designed for real-time environmental monitoring, automated irrigation control, and local data logging. AgriSense provides a standalone web dashboard, local CSV data logging via LittleFS, and modular sensor integration to optimize crop health and water usage.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Real-Time Sensor Monitoring:** Tracks ambient temperature, relative humidity, soil moisture levels, and ambient light intensity.
 - **Automated & Manual Irrigation:** Intelligent relay-driven water pump control that triggers based on soil moisture thresholds, with a manual override toggle via the web dashboard.
@@ -15,7 +15,7 @@ An open-source, ESP32-powered smart agriculture IoT system designed for real-tim
 
 ---
 
-## 🛠️ Hardware Components
+## Hardware Components
 
 | Component | Function | Pin / Interface |
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ An open-source, ESP32-powered smart agriculture IoT system designed for real-tim
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 AgriSense/
